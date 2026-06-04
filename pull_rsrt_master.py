@@ -89,7 +89,7 @@ RSRT_TERMS: dict[str, list[str]] = {
     "Cybersecurity_Data_Privacy":           ["cybersecurity"],
     "Advanced_Computing_Semiconductors":    ["microelectronics"],
     "Quantum_Information_Science":          ["quantum information"],
-    "AI_Autonomy":                          ["artificial intelligence"],
+    "Artificial_Intelligence":                          ["artificial intelligence"],
     "Advanced_Materials":                   ["advanced materials"],
     "Space_Technology":                     ["space technology"],
     "Advanced_Manufacturing":               ["advanced manufacturing"],
