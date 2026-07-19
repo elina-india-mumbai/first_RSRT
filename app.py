@@ -84,15 +84,14 @@ HIGHER_ED_TYPES = [
 
 FIELDS = [
     "Award ID",
+    "generated_internal_id",
     "Recipient Name",
     "Recipient UEI",
     "Awarding Agency",
     "Awarding Sub Agency",
     "Award Amount",
-    "Total Obligated Amount",
     "Description",
-    "cfda_number",
-    "cfda_title",
+    "CFDA Number",
     "Start Date",
     "Award Type",
 ]
